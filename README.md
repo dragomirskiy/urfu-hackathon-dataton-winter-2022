@@ -77,12 +77,14 @@ metrics_moto = {
 [![TRAIN-MOTO-QUANTITY-ANGLE.md.png](https://b.radikal.host/2023/01/20/TRAIN-MOTO-QUANTITY-ANGLE.md.png)](https://radikal.host/i/JBCLl8)
 
 # 4. ХАРАКТЕРИСТИКИ ДАТАСЕТА.
-Количество фото:
-* test:
-    * car: 511
-    * moto 522
-* train:
-    * car: 508
-    * moto 512
+* Количество фото:
+    * `test`:
+        * *car*: 511
+        * *moto* 522
+    * `train`:
+        * *car*: 508
+        * *moto*: 512
+    * `test` + `train` = 2053
     
-Итого: 2053
+* Минимальный размер фото: 500 x 500
+* Формат фото: ***.jpg****
